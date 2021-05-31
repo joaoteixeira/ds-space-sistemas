@@ -1,5 +1,5 @@
 # Space Sistemas
-Desenvolvimento do Sistema - Space Sistemas
+Disciplina de Projeto de Desenvolvimento de Sistemas
 
 ## Equipe
 - João Teixeira (IFRO)
