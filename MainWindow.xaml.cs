@@ -23,6 +23,8 @@ namespace SpaceSistemas
         public MainWindow()
         {
             InitializeComponent();
+
+            //Desenvolvimetno ferramenta X
         }
     }
 }
