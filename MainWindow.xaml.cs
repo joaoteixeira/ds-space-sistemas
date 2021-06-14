@@ -26,5 +26,9 @@ namespace SpaceSistemas
 
             //Desenvolvimetno ferramenta X
         }
+        
+        public void ABC() 
+        {
+        }
     }
 }
