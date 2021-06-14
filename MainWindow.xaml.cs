@@ -30,5 +30,10 @@ namespace SpaceSistemas
         public void ABC() 
         {
         }
+
+        public void VerificarFormulario(string s)
+        {
+            
+        }
     }
 }
