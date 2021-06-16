@@ -2,8 +2,10 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:SpaceSistemas"
-             StartupUri="LoginWindow.xaml">
+             StartupUri="ClienteWindow.xaml">
     <Application.Resources>
          //Resources
+         //ashdjksah d
+         //sasadsa
     </Application.Resources>
 </Application>
